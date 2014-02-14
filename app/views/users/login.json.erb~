@@ -1,0 +1,1 @@
+{ "count":<%= @user.count %>, "errCode":<%= @user.errCode %> }
